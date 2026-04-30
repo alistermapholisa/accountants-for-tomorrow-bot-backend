@@ -46,11 +46,11 @@ A production-ready Node.js/Express backend for the Accounting Assistant Bot. Thi
    NODE_ENV=production
    
    # Database
-   DB_HOST=localhost
-   DB_PORT=3306
+   DB_HOST=""
+   DB_PORT=""
    DB_USER=root
-   DB_PASSWORD=your_password
-   DB_NAME=accounting_bot
+   DB_PASSWORD=""
+   DB_NAME=""
    
    # OpenAI
    OPENAI_API_KEY=sk-...
